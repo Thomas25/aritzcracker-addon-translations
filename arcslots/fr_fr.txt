@@ -134,6 +134,6 @@
 		"vault_hack_time_stealth_rate": "Réglage de l'ATM Hacker à \ "mode furtif \" va multiplier le temps de piratage par ce montant",
 		"vault_hack_time_curve": "Voir aritzcracker.ca/uploads/aritz/atm_hack_time_curve.png",
 		"manager_auth_time": "Le nombre de minutes qu'un gestionnaire de casino recevra des bénéfices après l'authentification",
-		"manager_auth_teams": "Les personnes de ces équipes seront considérées comme des gestionnaires de casinos potentiels"
+		"manager_auth_teams": "Les personnes de ces équipes seront considérées comme des gestionnaires de casino potentiels"
 	}
 }
